@@ -1,0 +1,13 @@
+{
+  "name": "mw-hello-world",
+  "version": "0.0.0",
+  "dependencies": {
+    "@magicworks/logger": "0.8.1",
+    "connect": "3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  }
+}
